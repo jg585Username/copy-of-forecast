@@ -1,1 +1,7 @@
+[functions]
+  directory = "netlify/functions"
+
+# If your site is plain HTML/JS, publish the folder with index.html:
+[build]
+  publish = "."
 
